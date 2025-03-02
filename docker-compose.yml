@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web :
-     image : "mullaparvej/notes-app:tagname"
+     image : "trainwithshubham/notes-app:tagname"
      ports :
          - "8000:8000"
